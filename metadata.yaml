@@ -1,0 +1,26 @@
+_repo: Mahal-na-Ejercicio---Devocion-nang-Pitong-Arao-na-Domingo--13-Na-pinagcalooban-nang-santo-pap__18830
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Puansen, Antonio Florentino
+    gutenberg_agent_id: '8281'
+    url: http://www.gutenberg.org/2009/agents/8281
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2006-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18830'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Novenas'
+- !lcsh 'Catholic Church -- Prayers and devotions -- Tagalog'
+- !lcc 'BX'
+title: "Mahal na Ejercicio ó Devocion nang Pitong Arao na Domingo\r\nNa pinagcalooban\
+  \ nang santo papa nang indulgencia plenaria sa balang domingo"
+url: http://www.gutenberg.org/ebooks/18830
