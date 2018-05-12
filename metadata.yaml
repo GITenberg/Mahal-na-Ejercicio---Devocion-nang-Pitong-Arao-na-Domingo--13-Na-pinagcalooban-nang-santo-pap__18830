@@ -9,6 +9,8 @@ covers:
 - cover_type: generated
   image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18830#Mahal-na-Ejercicio---Devocion-nang-Pitong-Arao-na-Domingo--13-Na-pinagcalooban-nang-santo-pap_
 gutenberg_issued: '2006-07-15'
 gutenberg_type: Text
 identifiers:
